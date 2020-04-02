@@ -6,6 +6,9 @@ need to learn a new language gets overshadowed by lack of time and proficiency i
 my lesson plan here and eventually manage to be equally productive with newer languages.
 
 # Lesson plans
+(!) - I might know what this is, hence I might skip code-exercises but need to review for the sake of syntactical details.
+(~) - I have learned the concept in another language, so code-exercises might not be needed.
+
 ## Scala
 - [ ] Basics 
     - [x] Val vs Var
