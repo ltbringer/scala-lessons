@@ -1,4 +1,5 @@
 # Scala lessons
+![GitHub last commit](https://img.shields.io/github/last-commit/ltbringer/scala-lessons)
 
 This is a repository to help myself keep a track of my progress with scala and akka. Most of the times the 
 need to learn a new language gets overshadowed by lack of time and proficiency in another. So I hope I can follow
