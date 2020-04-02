@@ -7,6 +7,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
 
 # Lesson plans
 (!) - I might know what this is, hence I might skip code-exercises but need to review for the sake of syntactical details.
+
 (~) - I have learned the concept in another language, so code-exercises might not be needed.
 
 ## Scala
