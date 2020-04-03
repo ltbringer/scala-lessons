@@ -11,16 +11,16 @@ my lesson plan here and eventually manage to be equally productive with newer la
 (~) - I have learned the concept in another language, so code-exercises might not be needed.
 
 ## Scala
-- [ ] Basics 
+- [x] Basics 
     - [x] Val vs Var
     - [x] Functions
     - [x] Type Inference
-    - [x] Recursion <-- Currently here
-    - [ ] Call-by-value and Call-by-reference (!)
+    - [x] Recursion
+    - [x] Call-by-value and Call-by-reference (!)
 - [ ] OOPs
-    - [ ] Classes, Objects and Methods
-    - [ ] Method Notations
-    - [ ] Scala Objects
+    - [x] Classes, Objects and Methods (!)
+    - [x] Method Notations
+    - [x] Scala Objects <-- currently here
     - [ ] Inheritance
     - [ ] Generics
     - [ ] Anonymous Classes
@@ -28,8 +28,8 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [ ] Exceptions
     - [ ] Packaging and Imports
 - [ ] FP
-    - [x] Anonymous functions (~)
-    - [x] HOFs and curries (~)
+    - [ ] Anonymous functions (~)
+    - [ ] HOFs and curries (~)
     - [ ] Map, FlatMap, Filter, For-comprehensions (!)
     - [ ] Collections (!)
     - [ ] Sequences: List, Array, Vector (!)
