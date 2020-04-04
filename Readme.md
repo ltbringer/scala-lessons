@@ -15,7 +15,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Val vs Var
     - [x] Functions
     - [x] Type Inference
-    - [x] Recursion
+    - [x] Tail Recursion
     - [x] Call-by-value and Call-by-reference (!)
 - [ ] OOPs
     - [x] Classes, Objects and Methods (!)
