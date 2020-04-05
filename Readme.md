@@ -22,8 +22,8 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Method Notations
     - [x] Scala Objects <-- currently here
     - [x] Inheritance
-    - [ ] Generics
-    - [ ] Anonymous Classes
+    - [x] Generics
+    - [x] Anonymous Classes (Instantiating an abstract class)
     - [ ] Case Classes
     - [ ] Exceptions
     - [ ] Packaging and Imports
