@@ -21,7 +21,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Classes, Objects and Methods (!)
     - [x] Method Notations
     - [x] Scala Objects <-- currently here
-    - [ ] Inheritance
+    - [x] Inheritance
     - [ ] Generics
     - [ ] Anonymous Classes
     - [ ] Case Classes
