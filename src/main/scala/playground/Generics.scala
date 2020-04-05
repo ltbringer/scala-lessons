@@ -66,8 +66,7 @@ object Generics extends App {
      */
     override def add[S >: T](item: S): AList[S] = {
       empty = false
-      nodes = new Node(nodes, item)
-      nodes
+      new Node(nodes, item)
     }
 
     private def tailToRoot(node: AList[T]): String = {

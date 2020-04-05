@@ -24,7 +24,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Inheritance
     - [x] Generics
     - [x] Anonymous Classes (Instantiating an abstract class)
-    - [ ] Case Classes
+    - [x] Case Classes
     - [ ] Exceptions
     - [ ] Packaging and Imports
 - [ ] FP
