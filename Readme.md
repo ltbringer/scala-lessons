@@ -17,24 +17,19 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Type Inference
     - [x] Tail Recursion
     - [x] Call-by-value and Call-by-reference (!)
-- [ ] OOPs
+- [x] OOPs
     - [x] Classes, Objects and Methods (!)
     - [x] Method Notations
-    - [x] Scala Objects <-- currently here
+    - [x] Scala Objects
     - [x] Inheritance
     - [x] Generics
-    - [x] Anonymous Classes (Instantiating an abstract class)
     - [x] Case Classes
-    - [ ] Exceptions
-    - [ ] Packaging and Imports
 - [ ] FP
-    - [ ] Anonymous functions (~)
-    - [ ] HOFs and curries (~)
-    - [ ] Map, FlatMap, Filter, For-comprehensions (!)
-    - [ ] Collections (!)
-    - [ ] Sequences: List, Array, Vector (!)
-    - [ ] Tuples and Maps (!)
-    - [ ] Options
+    - [x] HOFs and curries (~)
+    - [x] Map, FlatMap, Filter, For-comprehensions (!)
+    - [x] Collections (!)
+    - [x] Options
+    - [x] Error Handling
     - [ ] Partial Functions
     - [ ] Functional Collections
     - [ ] Lazy Evaluation
