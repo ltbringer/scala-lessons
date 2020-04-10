@@ -30,7 +30,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Collections (!)
     - [x] Options
     - [x] Error Handling
-    - [ ] Partial Functions
+    - [x] Partial Functions
     - [ ] Functional Collections
     - [ ] Lazy Evaluation
     - [ ] Infinite Streams
