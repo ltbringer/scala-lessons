@@ -31,9 +31,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Options
     - [x] Error Handling
     - [x] Partial Functions
-    - [ ] Functional Collections
-    - [ ] Lazy Evaluation
-    - [ ] Infinite Streams
+    - [x] Lazy Evaluation
     - [ ] Monads
 - [ ] Functional Concurrency
     - [ ] JVM Thread Communication
