@@ -34,7 +34,7 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [x] Lazy Evaluation
     - [ ] Monads
 - [ ] Functional Concurrency
-    - [ ] JVM Thread Communication
+    - [x] JVM Thread Communication
     - [ ] Futures and Promises
 - [ ] Pattern Matching
 - [ ] Implicits
