@@ -61,3 +61,8 @@ my lesson plan here and eventually manage to be equally productive with newer la
     - [ ] Snapshots and recovery
 
 
+The content I am following is from these courses by RockTheJVM:
+
+1. [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners)
+2. [Advanced Scala](https://www.udemy.com/course/advanced-scala)
+3. [Akka Essentials with Scala](https://www.udemy.com/course/akka-essentials/)
